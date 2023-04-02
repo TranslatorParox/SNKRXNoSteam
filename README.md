@@ -11,9 +11,15 @@ https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-80
 
 [**Check it out on Steam!**](https://store.steampowered.com/app/915310/SNKRX/)
 
+### Changes
+
+- This version is will be identical as the steam version it will look like one in the steam version. There will be minor changes with the screens due to the github version has different stuff than the steam. I will include some stuff from other githubs as well. (I don't know what I will bring but if I do I'll write here.)
+- I'll add Turkish Localization. (And I'll release it seperately for github and Steam versions.)
+
 ### Running
 
-Download this repository, `cd` into it and then run `engine/love/love.exe --console .`, `engine\love\love.exe --console .` on windows. You don't need steam to run the game all. I'll just include a bat file that so you can run it without using cmd.
+Download this repository, `cd` into it and then run `engine/love/love.exe --console .` or 
+`engine\love\love.exe --console .` on windows. You don't need steam to run the game at all. I'll just include a bat file that so you can run it without `cd`ing it.
 
 ### LICENSE
 
