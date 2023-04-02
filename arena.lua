@@ -475,13 +475,6 @@ function Arena:quit()
           Button{group = self.ui, x = gw/2 + 50 + 40, y = gh/2 + 12, force_update = true, button_text = 'dota underlords', fg_color = 'bluem5', bg_color = 'blue', action = function(b) open_url(b, 'https://store.steampowered.com/app/1046930/Dota_Underlords/') end}
 
         else
-          self.win_text2 = Text2{group = self.ui, x = gw/2 + 40, y = gh/2 + 5, force_update = true, lines = {
-            {text = "[fg]you've beaten the game!", font = pixul_font, alignment = 'center', height_multiplier = 1.24},
-            {text = "[fg]if you liked it:", font = pixul_font, alignment = 'center', height_multiplier = 3.5},
-            {text = "[fg]and if you liked the music:", font = pixul_font, alignment = 'center', height_multiplier = 3.5},
-            {text = "[wavy_mid, yellow]thanks for playing!", font = pixul_font, alignment = 'center'},
-          }}
-          --[[
           self.win_text2 = Text2{group = self.ui, x = gw/2 + 40, y = gh/2 + 20, force_update = true, lines = {
             {text = "[fg]you've beaten the game!", font = pixul_font, alignment = 'center', height_multiplier = 1.24},
             {text = "[fg]i made this game in 3 months as a dev challenge", font = pixul_font, alignment = 'center', height_multiplier = 1.24},
@@ -490,8 +483,15 @@ function Arena:quit()
             {text = "[fg]i will release more games this year, so stay tuned!", font = pixul_font, alignment = 'center', height_multiplier = 1.4},
             {text = "[wavy_mid, yellow]thanks for playing!", font = pixul_font, alignment = 'center'},
           }}
+          --[[
+          self.win_text2 = Text2{group = self.ui, x = gw/2 + 40, y = gh/2 + 5, force_update = true, lines = {
+            {text = "[fg]you've beaten the game!", font = pixul_font, alignment = 'center', height_multiplier = 1.24},
+            {text = "[fg]if you liked it:", font = pixul_font, alignment = 'center', height_multiplier = 3.5},
+            {text = "[fg]and if you liked the music:", font = pixul_font, alignment = 'center', height_multiplier = 3.5},
+            {text = "[wavy_mid, yellow]thanks for playing!", font = pixul_font, alignment = 'center'},
+          }}
           ]]--
-          Button{group = self.ui, x = gw/2 + 40, y = gh/2 + 33, force_update = true, button_text = 'buy the soundtrack!', fg_color = 'greenm5', bg_color = 'green', action = function(b) open_url(b, 'https://kubbimusic.com/album/ember') end}
+          Button{group = self.ui, x = gw/2 + 40, y = gh/2 + 33, force_update = true, button_text = 'Follow me on steam!', fg_color = 'greenm5', bg_color = 'green', action = function(b) open_url(b, 'https://store.steampowered.com/developer/a327ex') end}
           Button{group = self.ui, x = gw - 40, y = gh - 44, force_update = true, button_text = '  loop  ', fg_color = 'bg10', bg_color = 'bg', action = function() self:endless() end}
           RestartButton{group = self.ui, x = gw - 40, y = gh - 20, force_update = true}
           self.try_loop_text = Text2{group = self.ui, x = gw - 200, y = gh - 44, force_update = true, lines = {
