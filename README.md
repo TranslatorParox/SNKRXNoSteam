@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-80
 ### Running
 
 Download this repository, `cd` into it and then run `engine/love/love.exe --console .` or 
-`engine\love\love.exe --console .` on windows. You don't need steam to run the game at all. I'll just include a bat file that so you can run it without `cd`ing it.
+`engine\love\love.exe --console .` on windows. You don't need steam to run the game at all.
 
 ### LICENSE
 
