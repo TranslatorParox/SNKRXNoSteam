@@ -398,6 +398,21 @@ end
 
 
 
+WishlistButton = Object:extend()
+WishlistButton:implement(GameObject)
+function WishlistButton:init(args)
+  self:init_game_object(args)
+  self.interact_with_mouse = true
+  if self.w_to_wishlist then
+    self.shape = Rectangle(self.x, self.y, 85, 18)
+    self.text = Text({{text = '[bg10]w to wishlist', font = pixul_font, alignment = 'center'}}, global_text_tags)
+  else
+    self.shape = Rectangle(self.x, self.y, 110, 18)
+    self.text = Text({{text = '[bg10]wishlist on steam', font = pixul_font, alignment = 'center'}}, global_text_tags)
+  end
+end
+
+
 function WishlistButton:update(dt)
   self:update_game_object(dt)
 
