@@ -4,7 +4,7 @@
 
 # SNKRX
 
-[SNKRX](https://store.steampowered.com/app/915310/SNKRX/) yakınınızdaki düşmanlara otomatik olarak saldıran kahramanlardan oluşan bir yılanı kontrol ettiğiniz bir arcade nişancı roguelite oyundur. Farklı kahramanları birleştirerek sınıf bonuslarının kilidini açın ve benzersiz yapılar oluşturun ve durdurulamaz ekibinizi sonsuz düşman dalgaları arasından geçerken yönlendirin.
+[SNKRX](https://store.steampowered.com/app/915310/SNKRX/) yakınınızdaki düşmanlara otomatik olarak saldıran kahramanlardan oluşan bir yılanı kontrol ettiğiniz bir arcade nişancı roguelite oyundur. Farklı kahramanları birleştirerek sınıf bonuslarının kilidini açın ve benzersiz buildlar oluşturun ve durdurulamaz ekibinizi sonsuz düşman dalgaları arasından geçerken yönlendirin.
 
 https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-8082-37e2c65591ea.mp4
 
