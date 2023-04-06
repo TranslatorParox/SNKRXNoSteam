@@ -14,7 +14,6 @@ https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-80
 ### Changes
 
 - This version will be identical as the steam version it will look like one in the steam version. There will be minor changes with the screens due to the github version has different stuff than the steam. I will include some stuff from other githubs as well. (I don't know what I will bring but if I do I'll write here.)
-- I'll add Turkish Localization. (And I'll release it seperately for github and Steam versions.)
 - Bat file added (You can now play the game without "cd"ing it.)
 
 ### Running
