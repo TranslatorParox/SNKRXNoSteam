@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-80
 ### Değişiklikler
 
 - Bu sürüm, steam sürümüyle neredeyse aynı ve oynamak için steam gerektirmiyor.
-- Bat dosyası eklendi (Artık oyunu "cd "lemeden oynayabilirsiniz.)
+- Bat dosyası eklendi (Artık oyunu "cd"lemeden oynayabilirsiniz.)
 
 ### Çalıştırma
 
