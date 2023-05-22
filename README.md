@@ -24,7 +24,7 @@ veya OyunuBaslat.bat dosyasını çalıştırın.
 ### NEDEN YAMA İPTAL EDİLDİ?
 
 - Kodlama bilmiyorum ve kimse bana yardımcı olmuyor.
-- Kodlamadan dolayı sıkıntılar yaşadım. Tekrar deneyeceğim.
+- Kodlamadan dolayı sıkıntılar yaşadım.
 
 ### LİSANS
 
