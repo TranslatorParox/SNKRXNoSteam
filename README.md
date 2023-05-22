@@ -2,7 +2,7 @@
 
 
 
-# SNKRX
+# SNKRX [IPTAL EDİLDİ]
 
 [SNKRX](https://store.steampowered.com/app/915310/SNKRX/) yakınınızdaki düşmanlara otomatik olarak saldıran kahramanlardan oluşan bir yılanı kontrol ettiğiniz bir arcade nişancı roguelite oyundur. Farklı kahramanları birleştirerek sınıf bonuslarının kilidini açın ve benzersiz buildlar oluşturun ve durdurulamaz ekibinizi sonsuz düşman dalgaları arasından geçerken yönlendirin.
 
@@ -20,6 +20,11 @@ https://user-images.githubusercontent.com/409773/119258159-ea982b00-bb9e-11eb-80
 Bu repoyu indirin, içine `cd` atın ve sonra `engine/love/love.exe --console .` veya
 windows üzerinde `engine\love\love.exe --console .` komutunu çalıştırın. Oyunu çalıştırmak için steam'e ihtiyacınız yok.
 veya OyunuBaslat.bat dosyasını çalıştırın.
+
+### NEDEN YAMA İPTAL EDİLDİ?
+
+- Kodlama bilmiyorum ve kimse bana yardımcı olmuyor.
+- Kodlamadan dolayı sıkıntılar yaşadım. Tekrar deneyeceğim.
 
 ### LİSANS
 
